@@ -137,11 +137,11 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
-				<version>2.9</version>
+				<version>3.3</version>
 				<configuration>
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
-					<wtpversion>2.0</wtpversion>
+					<wtpversion>3.3</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
